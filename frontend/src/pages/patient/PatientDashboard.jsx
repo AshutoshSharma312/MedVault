@@ -1,0 +1,1 @@
+export default function PatientDashboard(){return <h2>Patient</h2>}
